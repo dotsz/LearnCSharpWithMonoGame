@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8mfZlKlXfdQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dotsz\\Documents\\OneDrive\\OneDrive - Sault College\\CSD215 Programming Paradigms\\CSharp\\MonoGame1\\MonoGame1\\MonoGame1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dotsz\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\monogame.content.builder.task.3.8.2.1105.nupkg.sha512",
+    "C:\\Users\\Dotsz\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.2.1105\\monogame.framework.desktopgl.3.8.2.1105.nupkg.sha512",
+    "C:\\Users\\Dotsz\\.nuget\\packages\\monogame.library.sdl\\2.26.5.5\\monogame.library.sdl.2.26.5.5.nupkg.sha512",
+    "C:\\Users\\Dotsz\\.nuget\\packages\\nvorbis\\0.10.4\\nvorbis.0.10.4.nupkg.sha512",
+    "C:\\Users\\Dotsz\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Dotsz\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
